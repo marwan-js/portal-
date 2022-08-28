@@ -11,6 +11,7 @@ const style = {
 }
 const style2 = {
   cursor:'pointer',
+  margin:'12px'
 }
 const style3 = {
 display:'none'}
